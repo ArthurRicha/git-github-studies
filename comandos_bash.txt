@@ -1,0 +1,17 @@
+Commit → Save ou Checkpoints utilizados. Pode ser feito para fracionar uma tarefa, voltar se der errado e ir juntando as partes que você fez.
+
+ls → lista todas as pastas e arquivos da onde você está.
+
+cd → muda o diretório
+
+pwd → mostra o caminho do diretório que você se encontra.
+
+ls -a → exibe os arquivos ocultos.
+
+cd .. → volto pra pasta anterior.
+
+clear ou ctrl l → limpa o terminal.
+
+mkdir → cria um diretório novo.
+
+cat → mostra o que tem dentro do arquivo. cat nome do arquivo.
