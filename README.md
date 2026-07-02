@@ -1,6 +1,6 @@
 # Curso Git TMW 2025
 
-O foco desse curso foi **aprender versionamento de código com comandos Git e repositórios remotos com o GitHub**. 
+O foco desse curso foi **aprender versionamento de código com comandos Git, repositórios remotos com o GitHub e boas práticas com o GitFlow**. 
 
 O **curso do Téo é grátis** e tem o intuito de emancipar o conhecimento da área de Dados **sem gastar uma fortuna**. Confira o material no **canal do youtube** dele:
 [Curso Git 2025 - Téo Me Why](https://www.youtube.com/watch?v=84FhNXNWoig&list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)
@@ -73,6 +73,8 @@ Alguns dos **comandos git** apresentados no curso:
 **git pull** → envia as alterações/commits de um repositório remoto para um repositório local.
 
 **git clone** → cria uma cópia local completa de um repositório Git existente.
+
+**git fetch** -> baixa commits, tags e referências de um repositório remoto para o repositório local sem mesclar essas alterações a sua branch de trabalho atual.
 
 ## Fluxo de Trabalho Git Local
 
