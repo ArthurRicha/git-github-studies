@@ -50,7 +50,7 @@ Alguns dos **comandos git** apresentados no curso:
 
 **..** → volta ao diretório anterior
 
-* → pega todos os arquivos.
+**\*** → pega todos os arquivos.
 
 **git diff** → visualiza o que foi modificado (diferença do estado atual para o anterior)
 
