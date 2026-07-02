@@ -74,7 +74,7 @@ Alguns dos **comandos git** apresentados no curso:
 
 **git clone** → cria uma cópia local completa de um repositório Git existente.
 
-**git fetch** -> baixa commits, tags e referências de um repositório remoto para o repositório local sem mesclar essas alterações a sua branch de trabalho atual.
+**git fetch** → baixa commits, tags e referências de um repositório remoto para o repositório local sem mesclar essas alterações a sua branch de trabalho atual.
 
 ## Fluxo de Trabalho Git Local
 
