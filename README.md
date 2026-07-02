@@ -117,3 +117,9 @@ Alguns dos **comandos git** apresentados no curso:
 11. excluir <nova_branch> origin
 12. git checkout main
 13. git branch -D <nova_branch>
+
+## .gitignore e .gitkeep
+
+**.gitignore** é um arquivo de texto que instrui o Git a ignorar arquivos ou pastas específicos, impedindo que sejam rastreados ou enviados ao repositório. Ele é essencial para manter o projeto limpo, evitando o commit de arquivos temporários, logs e dependências locais.
+
+**.gitkeep** é um arquivo vazio ou com conteúdo mínimo inserido dentro de um diretório vazio para forçar o Git a rastrear essa pasta. Como o Git não armazena diretórios vazios por padrão, este arquivo serve como um "placeholder" que garante que a estrutura de pastas (como logs/, build/ ou uploads/) seja mantida no repositório e disponível para outros desenvolvedores após o clone.
